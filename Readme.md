@@ -34,3 +34,10 @@ Este script de Unity está diseñado para gestionar los logros (achievements) en
 
 ---
 
+## Acceso varias instancias
+
+
+
+https://github.com/SilverClick/FirebaseUtility/assets/113664124/be8b1d67-17a4-4d1c-bf94-465d7ac163e4
+
+
